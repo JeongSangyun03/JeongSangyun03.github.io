@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "정상윤"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "대체로 맑음."
+  location         : "서울 본가/수원 자취"
+  email            : "maps11115@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
