@@ -200,8 +200,13 @@ plugins:
   - jekyll-include-cache
 author :
   name : "정상윤"
-  avatar :
-  bio :
+  avatar : "/assets/IMG_7398.JPG"
+  bio : "a student at Kyung Hee University Industrial Engineering"
+  links :
+  - label : "GitHub"
+    url : "JeongSangyun03.github.io"
+  - label : "Instagram"
+    url : "https://www.instagram.com/jeongsangyooon/"
   
 # mimic GitHub Pages with --safe
 whitelist:
