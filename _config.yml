@@ -198,7 +198,11 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-
+author :
+  name : "정상윤"
+  avatar :
+  bio :
+  
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
